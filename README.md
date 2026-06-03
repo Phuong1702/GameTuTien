@@ -7,7 +7,6 @@ Bản hiện tại có 2 chế độ:
 - **Keyboard + Mouse**: dùng để test gameplay nhanh.
 - **Computer Vision**: dùng webcam để điều khiển bằng cử chỉ tay.
 
-![Skill VFX](previews_auto/skills_vfx.png)
 
 ## Điểm Nổi Bật
 
@@ -18,29 +17,6 @@ Bản hiện tại có 2 chế độ:
 - **Computer Vision**: chọn skill bằng số ngón tay, nắm tay để thi triển, chắp tay để thiền.
 - **QA preview**: có ảnh sinh tự động để kiểm tra map, quái, boss, aura và skill VFX.
 
-## Hình Ảnh Gameplay
-
-### Map 1 - Mộc Môn Cự Thọ
-
-![Map 1](previews_auto/map_1.png)
-
-### Map 2 - Linh Hoa Đảo Tâm
-
-![Map 2](previews_auto/map_2.png)
-
-### Map 3 - Hải Nhai Cổ Lộ
-
-![Map 3](previews_auto/map_3.png)
-
-### Quái, Boss Và Aura
-
-![Actors](previews_auto/actors_registry.png)
-
-![Realm Auras](previews_auto/realm_auras.png)
-
-### Boss Skills
-
-![Boss Skills](previews_auto/boss_skills.png)
 
 ## Luồng Chơi
 
