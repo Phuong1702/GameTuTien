@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build outputs
+build/
+dist/
+*.log
+
+# Local generated previews
+previews/
+previews_monsters/
+previews_ninja/
+previews_valley/
+previews_valley_v2/
+previews_valley_v3/
+previews_valley_maps_latest/
+
+# Keep README gallery images, but ignore accidental extra temp files there
+previews_auto/*.tmp
+
+# Source asset archives are large and already extracted under assets/
+assets/*.zip
+
+# Editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
